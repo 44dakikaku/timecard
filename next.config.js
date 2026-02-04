@@ -1,5 +1,4 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-  // 必要に応じて設定  
-}
+const nextConfig = {};
+
 module.exports = nextConfig;
